@@ -1,2 +1,2 @@
-# papi
-pApi framework
+# Shortly
+A small shortener
